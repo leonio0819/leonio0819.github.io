@@ -1378,12 +1378,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #e4d295;
+  background: #073b4c;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #e4d295;
+  background: #073b4c;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1467,7 +1467,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #e4d295;
+  background: #073b4c;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1758,7 +1758,7 @@ body {
   color: #cc2952 !important;
 }
 .cid-qTkA127IK8 {
-  background-color: #cebfaf;
+  background-color: #465052;
 }
 .cid-qTkA127IK8 H1 {
   text-align: center;
