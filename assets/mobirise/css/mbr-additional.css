@@ -2221,7 +2221,8 @@ body {
 .cid-rcmJX80GPW {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #465052;
+  background: linear-gradient(45deg, #465052, #000000);
 }
 @media (min-width: 992px) {
   .cid-rcmJX80GPW .mbr-figure {
