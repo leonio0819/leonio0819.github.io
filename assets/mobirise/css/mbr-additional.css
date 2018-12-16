@@ -3066,14 +3066,14 @@ body {
 .cid-rcmOP1ofGi {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #ffffff;
+  background-color: #5b686b;
 }
 .cid-rcmOP1ofGi .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
 .cid-rcmOP1ofGi .number-wrap {
-  color: #565656;
+  color: #cccccc;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -3092,7 +3092,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #28262b;
+  color: #ffffff;
 }
 .cid-rcmOP1ofGi .period {
   display: block;
@@ -3114,7 +3114,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #28262b;
+  color: #ffffff;
 }
 .cid-rcmOP1ofGi .countdown-cont {
   max-width: 700px;
