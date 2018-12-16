@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1571,13 +1571,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "image": "@PROJECT_PATH@/assets/images/33663525-1744550525623212-6504817545629925376-o-972x648.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/33663525-1744550525623212-6504817545629925376-o-972x648-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "这里输入标题",
-                "active": false
+                "caption": "愛車",
+                "active": true
               },
               {
                 "tags": "酷毙",
@@ -1629,7 +1629,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "雪白世界",
-                "active": true
+                "active": false
               },
               {
                 "tags": "创意",
